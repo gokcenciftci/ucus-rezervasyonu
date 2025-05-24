@@ -28,7 +28,7 @@ Uçuşları Listeleme:
 Menüden uçuşları görüntüleyerek kalkış ve varış noktaları, saatleri ve uçak bilgilerini görebilirsiniz.
 
 Rezervasyon Yapma:
-Listelenen uçuşlardan birini seçip ad, soyad ve yaş bilgilerinizi girerek rezervasyon oluşturabilirsiniz. Eğer uçuşta yer kalmamışsa sistem sizi uyaracaktır.
+Listelenen uçuşlardan birini seçip ad, soyad, yaş bilgileri ve telefon numaranızı girerek rezervasyon oluşturabilirsiniz. Eğer uçuşta yer kalmamışsa sistem sizi uyaracaktır.
 
 Rezervasyonları Görüntüleme:
 Mevcut tüm rezervasyonları yolcu bilgileri ve uçuş detayları ile listeleyebilirsiniz.
